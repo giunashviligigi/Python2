@@ -1,0 +1,59 @@
+# class Car:
+#    pass
+#
+#
+# mercedes = Car()
+# bmw = Car()
+# ferrari = Car()
+#
+# print(mercedes)
+# print(bmw)
+# print(ferrari)
+#
+# print(type(ferrari))
+# print(isinstance(ferrari, Car))
+#
+# from pprint import pprint
+#
+#
+# class Car:
+#    pass
+#
+#
+# cars = {}
+# for i in range(10):
+#    car = Car()
+#    cars[car] = 'car' + str(i + 1)
+# pprint(cars)
+#
+# class Car:
+#    manufacturer = 'Ferrari'
+#    model = "Portofino"
+#    color = 'Red'
+#    production = '2023'
+#    price = 250000
+#
+#
+# a1 = Car()
+# print(a1.manufacturer)
+# print(a1.model)
+# print(a1.color)
+# print(a1.production)
+# print(a1.price)
+# print(a1)
+#
+#class Car:
+#    manufacturer = 'Ferrari'
+#
+#    def __init__(self,model):
+#        self.model = model
+#
+#f1 = Car('F40')
+#f1 = Car('Portofino')
+#f1 = Car('Roma')
+#f1 = Car('California')
+#
+#print(f1.manufacturer)
+#print(f1.model)
+
+
